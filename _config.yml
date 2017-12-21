@@ -1,0 +1,7 @@
+# Site settings
+title: Stories & Revelations
+description: Modern-Blog A Elegant template for Jekyll
+keywords: Modern, Blogging, Fun
+author: David Cusick
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
